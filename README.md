@@ -1,5 +1,5 @@
 ### LearningResource
 Some resource on learnig frameworks, AI, IoT, Architechture
 
-### awesome availability
+### awesome scalability
 https://github.com/binhnguyennus/awesome-scalability
