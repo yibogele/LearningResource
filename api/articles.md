@@ -1,2 +1,3 @@
 - https://medium.com/netflix-techblog/embracing-the-differences-inside-the-netflix-api-redesign-15fd8b3dc49d
 - https://medium.com/netflix-techblog/redesigning-the-netflix-api-db5a7221fcff
+- https://medium.com/netflix-techblog/optimizing-the-netflix-api-5c9ac715cf19
