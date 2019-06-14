@@ -6,7 +6,6 @@ Some resource on learnig frameworks, AI, IoT, Architechture
 - https://github.com/onurakpolat/awesome-bigdata
 - https://github.com/ChristosChristofidis/awesome-deep-learning
 - https://github.com/DovAmir/awesome-design-patterns
-- https://github.com/tmrts/go-patterns
 - https://github.com/BruceDone/awesome-crawler
 - https://github.com/lorien/awesome-web-scraping
 - https://github.com/NirantK/awesome-project-ideas
