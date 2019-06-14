@@ -10,3 +10,4 @@ Some resource on learnig frameworks, AI, IoT, Architechture
 - https://github.com/BruceDone/awesome-crawler
 - https://github.com/lorien/awesome-web-scraping
 - https://github.com/NirantK/awesome-project-ideas
+- https://docs.microsoft.com/en-us/azure/architecture/guide/
