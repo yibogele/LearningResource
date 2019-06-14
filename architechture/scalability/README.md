@@ -1,0 +1,2 @@
+- http://highscalability.com/all-time-favorites/
+- http://highscalability.squarespace.com/blog/category/example
