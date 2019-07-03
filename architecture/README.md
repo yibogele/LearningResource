@@ -2,6 +2,7 @@
 - https://github.com/binhnguyennus/awesome-scalability
 
 - *** https://github.com/DovAmir/awesome-design-patterns
+- https://en.wikipedia.org/wiki/Software_design_pattern
 - https://docs.microsoft.com/en-us/azure/architecture/guide/
 - https://docs.microsoft.com/en-us/azure/architecture/patterns/
 - *** https://github.com/donnemartin/system-design-primer
