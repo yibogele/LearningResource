@@ -1,5 +1,5 @@
 
-- https://github.com/binhnguyennus/awesome-scalability
+* [awesome scalability](https://github.com/binhnguyennus/awesome-scalability)
 
 - *** https://github.com/DovAmir/awesome-design-patterns
 - https://en.wikipedia.org/wiki/Software_design_pattern
@@ -10,3 +10,4 @@
 
 - https://github.com/mfornos/awesome-microservices
 
+* [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html)
