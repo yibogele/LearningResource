@@ -11,3 +11,4 @@
 - https://github.com/mfornos/awesome-microservices
 
 * [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html)
+- https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview/
